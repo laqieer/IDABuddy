@@ -28,9 +28,9 @@ animation:
   duration: 500
 
 # The avatar image to use.
-image: avatar/superida.png
+image: avatar/mario.png
 
 # Specify an override to replace desired settings.
 # This is useful for loading avatar styles from presets.
 # Set to `~` (without the backticks) to not load an override.
-override: avatar/clippy.yml
+override: avatar/mario.yml

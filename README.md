@@ -21,7 +21,7 @@ from you!
 ## Installation
 
 1. Clone the IDABuddy repository
-1. Add `idabuddy\idabuddy_plugin.py` to your `plugins.list` (`%AppData%\HexRays\plugins.list` or `C:\Program Files (x86)\IDA 6.9\cfg\plugins.list`).
+1. Add `idabuddy\idabuddy_plugin.py` to your `plugins.list` (`%AppData%\Hex-Rays\IDA Pro\plugins.list` or `E:\Program Files (x86)\IDA 6.8\cfg\plugins.list`).
 1. Launch IDA
 
 
@@ -42,6 +42,7 @@ Visual settings are stored in `config.yml`, as well as documentation.
 
 #### Available avatars:
 
+<img width="200" src="idabuddy/avatar/mario.png">
 <img width="200" src="idabuddy/avatar/Clippy.png">
 <img width="200" src="idabuddy/avatar/superida.png">
 <img width="200" src="idabuddy/avatar/xmasida.png">
@@ -52,3 +53,7 @@ Or create your own!
 ## In The Press
 
 IDABuddy was presented in a lightning talk at 32c3. Watch the video [here](https://youtu.be/4lLL9SkLdi4?t=1h33m25s).
+
+## Preview
+
+<img width="800" src="preview.png">

@@ -1,56 +1,36 @@
 {
   "basic": [
     [
-      "Hello, World!",
-      "I am IDABuddy.\nI will assist you in all your reverse-engineering efforts."
+      "Aha!\nI caught you."
     ],
     [
-      "You're not too good at this, are you?",
-      "Did you consider switching to a different line of work?"
+      "Rule 1: when in doubt, scrub C!"
     ],
     [
-      "Remember to save your work!"
+      "Rule 2: never assume it won't get optimized out."
     ],
     [
-      "I put the fun in functions, and the ass in assembly!"
+      "Rule 3: when the answer is elusive,\nnever rule out a typo."
     ],
     [
-      "If at first you don't succeed",
-      "Try, try again."
+      "Rule 4: always be prepared to cram a square peg into a circle hole."
     ],
     [
-      "If at first you don't succeed",
-      "Give up."
+      "Rule 5: if you still cant get it to match",
+      "it's a combination that you think you tried before but you havent."
     ],
     [
-      "Don't Panic."
+      "Rule 6: volatile is a dangerous magic sauce that may explode."
     ],
     [
-      "So nice to see you again."
+      "Rule 7: if you're afraid you need to use math, be."
     ],
     [
-      "Don't drink and code."
+      "Rule 8: if you think you understand the compiler",
+      "the compiler will tell you you don't."
     ],
     [
-      "It's not about the opcodes."
-    ],
-    [
-      "Don't try, don't fail."
-    ],
-    [
-      "Programmers, huh?"
-    ],
-    [
-      "Use the Force, Luke!"
-    ],
-    [
-      "There is no spoon."
-    ],
-    [
-      "Happy New Year!\n{image[images/fireworks.png]}"
-    ],
-    [
-      "I LIVE.\nI DIE.\nI LIVE AGAIN!"
+      "Rule 10: Rule 9 was optimized out?"
     ]
   ],
   "address": [
